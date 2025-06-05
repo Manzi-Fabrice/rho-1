@@ -3,7 +3,7 @@
 This project implement the Rho-1 model, a method proposed in the paper [*"Not All Tokens Are What You Need."*](https://arxiv.org/abs/2404.07965) Rho-1 is a targeted training approach where a language model is trained only on **hard tokens**, aiming to reduce number of tokens needed and the convergent time. 
 
 
-> Hard tokens are those tokens where a language model is performing poorly—specifically, tokens that show a large difference between the target model's loss and a reference model's loss.
+> Hard tokens are those tokens where a language model is performing poorly specifically, tokens that show a large difference between the target model's loss and a reference model's loss.
 
 ## Training Procedure
 
